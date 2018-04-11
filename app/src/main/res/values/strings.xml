@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FbMarketingDemo</string>
+    <string name="facebook_app_id">2270450273244188</string>
 </resources>
